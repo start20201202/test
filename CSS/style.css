@@ -1,0 +1,130 @@
+* {
+    padding: auto;
+    margin: auto;
+    box-sizing: auto;
+}
+body{
+    background: #f4f6f9;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Montserrat;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    height: 1024px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-photo{
+    margin-top: -20px;
+    width: 370px;  
+}
+.abaut-me-container{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.contacts-container{
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contacts-title{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 17px;
+    margin-left: -3px;
+}
+
+
+.contacts-link-type{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;  
+    color: #ffffff;
+    list-style-type: none;
+    margin-left: -42px;
+}
+.tech-scills-title{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.tech-scills-container{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+.tech-skill-item{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color:white;
+    margin-left: -19px;
+}
+.tech-skill-text{
+    color: #ffffff;
+}
+
+
+.profession{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 25px;
+
+}
+.name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.info-container{
+    margin-bottom: 65px;
+}
+
+.title_name{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.li { 
+    color: #595959;
+    margin-left: 18px;
+}
+.span {
+font-size: 16;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
